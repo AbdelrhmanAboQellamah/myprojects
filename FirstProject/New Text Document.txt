@@ -1,0 +1,51 @@
+php artisan serve
+
+
+php artisan make:controller
+
+
+php artisan make:model Computer  --migration
+
+
+composer require laravel-frontend-presets/tailwindcss --dev
+
+
+php artisan ui tailwindcss --auth
+
+
+
+npm remove laravel-mix
+
+
+
+ npm install laravel-mix --save-dev
+
+
+npm install
+
+npm run dev 
+
+
+npm run watch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MRAbdo12345#
+AA6ABDPpop#
+
+
